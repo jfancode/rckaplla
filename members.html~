@@ -1,0 +1,498 @@
+<!DOCTYPE HTML>
+<!--
+	TXT by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+
+<link rel="shortcut icon" href="images/logos/pride.ico"/>
+<html>
+	<head>
+		<title>The Dartmouth Rockapellas</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+		<div id="page-wrapper">
+		
+			<!-- Header -->
+				<header id="header">
+					<div class="logo container">
+						<div>
+							<h1><a href="index.html" id="logo">The Dartmouth Rockapellas.</a></h1>
+							<p>Spreading freedom since 1989.</p>
+						</div>
+					</div>
+				</header>
+		
+			<!-- Nav -->
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<!--
+						<li>
+							<a href="#">Dropdown</a>
+							<ul>
+								<li><a href="#">Lorem ipsum dolor</a></li>
+								<li><a href="#">Magna phasellus</a></li>
+								<li>
+									<a href="#">Phasellus consequat</a>
+									<ul>
+										<li><a href="#">Lorem ipsum dolor</a></li>
+										<li><a href="#">Phasellus consequat</a></li>
+										<li><a href="#">Magna phasellus</a></li>
+										<li><a href="#">Etiam dolore nisl</a></li>
+									</ul>
+								</li>
+								<li><a href="#">Veroeros feugiat</a></li>
+							</ul>
+						</li>-->
+						<li class="current"><a href="members.html">Members</a></li>
+						<li><a href="calendar.html">Performance Calendar</a></li>
+						<li><a href="music.html">Music</a></li>
+						<!--<li><a href="freedom.html">Freedom</a></li>-->
+						<li><a href="auditions.html">Auditions</a></li>
+						<li class="contact"><a href="#footer">Contact</a></li>
+					</ul>
+				</nav>
+
+
+			<!-- Main -->
+				<div id="main-wrapper">
+					<div id="main" class="container">
+						<div class="row">
+							<div class="12u">
+
+								<!-- Members -->
+									<section class="box features">
+										<h2 class="major"><span>Members</span></h2>
+										<div>
+											<div class="row">
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a>Charli "Hoox" Fool Bear '15</a></h3>
+																<h6><span><b>Hometown:</b> North Dakota<br/>
+																          <b>Major:</b> Theater</span></h6>
+															<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img class="image featured" src="images/current_members/Charli.jpeg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Charli was born in North Dakota, but lives in the moment. She's a theater 
+																		major (sorry, Dad) and therefore can usually be found stomping around the 
+																		Hop in her aggressively green Docs. Her favorite food is the Patti Labelle 
+																		Sweet Potato Pie and the only songs she allows on her iPod are various 
+																		renditions of Lady Marmalade and the Golden Girls theme song. She's always 
+																		down to aca; are you?
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a>Jess "Yeddi" Fan '17</a></h3>
+																<h6><span><b>Hometown:</b> Saratoga, CA<br/>
+																          <b>Major:</b> Computer Science<br/>
+																          <b>Minor:</b> Women, Gender, & Sexuality Studies</span></h6>
+															<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/JessicaFan.jpg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Jess Fan grew up in the mellow suburbs of Saratoga, CA with loving parents 
+																		and a semi-cool younger brother. She played flute, ran cross country, and 
+																		shower-sang through her high school years. She is now a happy member of the 
+																		Rocks, and she plans to major in Computer Science. Other hobbies include 
+																		arranging music, philosophizing, making bad analogies, and daydreaming.
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a>Jess "Kindi" Tong '17</a></h3>
+																<h6><span><b>Hometown:</b> Sydney, Australia<br/>
+																		  <b>Major:</b> Philosophy<br/>
+																		  <b>Minor:</b> Government</span></h6>
+															<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/JessTong.jpeg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Jess was born and raised in Sydney, Australia. She loves all things musical, 
+																		whether it's singing, playing the piano, violin, guitar or singing (repetition 
+																		for emphasis). She also loves learning foreign languages (Здравствуйте!), 
+																		being Dobby, and eating Vegemite on toast (it's a delightful but acquired taste). 
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a>Catherine "Neptune" Hastings '17</a></h3>
+																<h6><span><b>Hometown:</b> Minneapolis, MN<br/>
+																		  <b>Major:</b> Biology<br/>
+																          <b>Minor:</b> Theater</span></h6>
+																<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/Catherine.jpg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Catherine Hastings was born and raised in Minneapolis, MN and will forever be a 
+																		proud midwesterner. She is a biology major and a theater minor. Hobbies include 
+																		baking, skiing, drinking hot chocolate, and quidditch. 
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+											</div>
+											<!--
+											<div class="row">
+												<div class="12u">
+													<ul class="actions">
+														<li><a href="#" class="button big">Do Something</a></li>
+														<li><a href="#" class="button alt big">Think About It</a></li>
+													</ul>
+												</div>
+											</div>-->
+											
+											<div class="row">
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+																<h3><a href="#">Grace "Rooty" E. Carney '17</a></h3>
+																<h6><span><b>Hometown:</b> Boston, MA<br/>
+																		  <b>Major:</b> Women, Gender, & Sexuality Studies<br/></span></h6>
+															<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/Grace.jpeg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Fun fact: Grace's dad's name is Barney Carney.
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a href="#">Savannah "Turtle" Maher '17</a></h3>
+																<h6><span><b>Hometown:</b> Boston, MA<br/>
+																		  <b>Major:</b> Sociology<br/>
+																		  <b>Minor:</b> Native American Studies</span></h6>
+																<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/Savannah.jpeg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		In high school, Savannah was voted "most likely to misplace a car" and that is all 
+																		you really need to know about her. She is very excited to join the Rockapellas family!
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a href="#">Elena "Prezzi" Bird '18</a></h3>
+																<h6><span><b>Hometown:</b> Andover, MA<br/>
+																		  <b>Major:</b> Earth Science</span></h6>
+																<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/Elena.jpeg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Elena Bird was born in Andover, MA, but the lakes and White Mountains of New Hampshire 
+																		are really where she comes from. She enjoys skiing off cliffs, frolicking through 
+																		mountain meadows, and knitting things that never get finished- all while singing 
+																		anything by Shakira. What really makes Elena tick, though, is her family, her friends, 
+																		and her plethora of awesome wool socks. ​
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+																<h3><a href="#">Emily "Dory" Golitzin '18</a></h3>
+																<h6><span><b>Hometown:</b> Petaluma, California<br/>
+																		  <b>Major:</b> Physics</span></h6>
+																<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/EmilyG.jpeg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Emily is a displaced California girl who misses carnitas and the Golden Gate more 
+																		than she misses her parents. Some of her favorite things include fog, fresh-baked 
+																		cookies, oversized sweaters, nerdy nonfiction books, and her Australian shepherd, 
+																		Earl. When she's not imitating instrument sounds with the Rocks, you can find her 
+																		in Wilder puzzling over astrophysics research, napping on the BVAC lawn, or floating 
+																		somewhere out in the Connecticut. 
+																	</div>
+																</div>
+															</div>
+														</section>
+												</div>
+											</div>
+											
+											<div class="row">
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a href="#">Jen "Comet" Zhong '18</a></h3>
+																<h6><span><b>Hometown:</b> Stony Brook, New York<br/>
+																		  <b>Major:</b> English</span></h6>
+															<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/JenniferZ.jpeg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Jennifer hails from Stony Brook, Long Island (so basically she was predestined to be 
+																		a Rock). She is an English major and a proud Hufflepuff. She loves cats, Shakespeare, 
+																		and noodles in any type of soup. Her guilty pleasures include trashy romance novels, 
+																		long naps, perfume, and too much coffee.
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a href="#">Sarah "Hash" Petroni '18</a></h3>
+																<h6><span><b>Hometown:</b> Nashville, Tennessee<br/>
+																		  <b>Majors:</b> Spanish; Governent</span></h6>
+																<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/SarahP.jpeg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Sarah Petroni hails from Nashville, TN and is the oldest of five kids. At Dartmouth, she's a 
+																		Spanish and Government double major. Besides completing financial paperwork for the Rocks, she 
+																		enjoys singing with the Glee Club and tripping over obstacles around campus as a tour guide. 
+																		She loves theater, stickers, glitter, fried foods, milkshakes, and afternoon naps. Her dream 
+																		job is to be Hoox's paid intern (instead of her unpaid intern, as she currently is). 
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a href="#">Olivia "Mozzz" Estes '19</a></h3>
+																<h6><span><b>Hometown:</b> New Jersey<br/>
+																		  <b>Major:</b> Spanish</span></h6>
+																<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/OliviaE.jpg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Olivia hates the cold with the burning passion of a thousand suns, even though she's from 
+																		northern NJ.  She aspires to be as multilingual as Daniel Jackson from "Stargate," but right 
+																		now she's only studying Chinese, Spanish, and Latin.  When she's not rockin' out with the 
+																		Rockapellas, she likes to visit animal shelters and (in the winter) attempt to snowboard. 
+																		When folding laundry, she likes to watch "Criminal Minds" or "Doctor Who."
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a href="#">Julianne "Milo" DeAngelo '18</a></h3>
+																<h6><span><b>Hometown:</b> Simsbury, Connecticut<br/>
+																		  <b>Major:</b> Earth Sciences</span></h6>
+															<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/JulianneD.png" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Julianne hails from the riveting town of Simsbury, home to the "largest tree in Connecticut." 
+																		She is six feet tall, lanky, and rather buoyant. During Rockapellas rehearsal, Julianne likes 
+																		to do stretches and sing. In addition to singing, Julianne spends her time taking naps, drinking 
+																		coffee, watching Game of Thrones, reading Scientific American, skiing, and petting dogs.
+																	</div>
+																</div>
+															</div>
+														</section>
+												</div>
+											</div>
+											
+											<div class="row">
+												<div class="3u 12u(mobile)">
+
+													<!-- Feature -->
+														<section class="box feature">
+															<h3><a href="#">Josie "Dex" Yalovitser '18</a></h3>
+																<h6><span><b>Hometown:</b> Rye Brook, New York<br/>
+																		  <b>Major:</b> Psychology; Medicinal Anthropology</span></h6>
+															<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+																<div class="flipper">
+																	<div class="front">
+																		<a class="image featured"><img src="images/current_members/JosieY.jpg" alt="" /></a>
+																	</div>
+																	<div class="back">
+																		Josie comes from the village of Rye Brook, New York. Growing up speaking Russian, she still 
+																		has trouble naming vegetables. Josie comes from a musical family, and was taught piano and 
+																		guitar as a young age. She has a passion for mental health, and spends her time volunteering 
+																		in ASPIRE, and studying for her Psych and Medical Anthropology majors. Josie’s favorite hobbies 
+																		include running, hiking, and impromptu dance parties.
+																	</div>
+																</div>
+															</div>
+														</section>
+
+												</div>
+											</div>
+										</div>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<footer id="footer" class="container">
+					<!--<div class="row 200%">
+						<div class="12u"> -->
+
+							<!-- About --> <!--
+								<section>
+									<h2 class="major"><span>What's this about?</span></h2>
+									<p>
+										This is <strong>TXT</strong>, yet another free responsive site template designed by
+										<a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net">HTML5 UP</a>. It's released under the
+										<a href="http://html5up.net/license/">Creative Commons Attribution</a> license so feel free to use it for
+										whatever you're working on (personal or commercial), just be sure to give us credit for the design.
+										That's basically it :)
+									</p>
+								</section>
+
+						</div>
+					</div>
+					-->
+					
+					<header class="major last">
+						<h2>Questions or comments? Want to book us for a show?</h2>
+					</header>
+					
+					<h4>Let us know in the form below!</h4>
+					<p/>
+
+					<div class="row 200%">
+						<div class="12u">
+							<form method="post" action="#">
+								<div class="row">
+									<div class="6u 12u(mobilep)">
+										<input type="text" name="name" placeholder="Name" />
+									</div>
+									<div class="6u 12u(mobilep)">
+										<input type="email" name="email" placeholder="Email" />
+									</div>
+								</div>
+								<div class="row">
+									<div class="12u">
+										<textarea name="message" placeholder="Message" rows="6"></textarea>
+									</div>
+								</div>
+								<div class="row">
+									<div class="12u">
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" /></li>
+										</ul>
+									</div>
+								</div>
+							</form>
+						</div>
+					</div>
+					
+					<div class="row 200%">
+						<div class="12u">
+
+							<!-- Contact -->
+								<section>
+									<!--<h2 class="major"><span>Get in touch</span></h2>-->
+									<ul class="contact">
+										<li><a class="icon fa-facebook" href="https://www.facebook.com/Dartmouth-Rockapellas-130681392191/"><span class="label">Facebook</span></a></li>
+										<li><a class="icon fa-twitter" href="#"><span class="label">Twitter</span></a></li>
+										<li><a class="icon fa-instagram" href="#"><span class="label">Instagram</span></a></li>
+										<!--<li><a class="icon fa-dribbble" href="#"><span class="label">Dribbble</span></a></li>-->
+										<!--<li><a class="icon fa-google-plus" href="#"><span class="label">Google+</span></a></li>-->
+									</ul>
+								</section>
+
+						</div>
+					</div>
+
+					<!-- Copyright -->
+						<div id="copyright">
+							<ul class="menu">
+								<li>&copy; Dartmouth Rockapellas. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+
+				</footer>
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
